@@ -1,0 +1,103 @@
+{
+  "name": "Casa della Pizza",
+  "tagline": "Pizza per asporto in Oftersheim",
+  "intro": "Pizza zum Mitnehmen aus Oftersheim. Caputo-Mehl, Fior di Latte, 72 Stunden Teigreife: frisch belegt, frisch gebacken, fertig im Karton. Du siehst dem Pizzabäcker beim Belegen zu, holst deine Pizza ab oder bestellst sie nach Hause.",
+  "address": {
+    "street": "Mannheimer Straße 14 B",
+    "city": "68723 Oftersheim",
+    "country": "Deutschland"
+  },
+  "contact": {
+    "phone": "06202 5827553",
+    "email": "",
+    "instagram": "@la_casa_della_pizza"
+  },
+  "openingHours": [
+    { "day": "Montag",     "hours": "Ruhetag" },
+    { "day": "Dienstag",   "hours": "11:00 – 14:00, 17:00 – 22:00" },
+    { "day": "Mittwoch",   "hours": "11:00 – 14:00, 17:00 – 22:00" },
+    { "day": "Donnerstag", "hours": "11:00 – 14:00, 17:00 – 22:00" },
+    { "day": "Freitag",    "hours": "11:00 – 14:00, 17:00 – 23:00" },
+    { "day": "Samstag",    "hours": "17:00 – 23:00" },
+    { "day": "Sonntag",    "hours": "11:30 – 21:30" }
+  ],
+  "reviews": {
+    "rating": 4.5,
+    "count": 146,
+    "source": "Google",
+    "excerpts": [
+      {
+        "name": "Aylien Feger",
+        "rating": 5,
+        "date": "vor 4 Monaten",
+        "text": "Tutto bene e delizioso. Sehr lecker, man sollte vorher angeben, ob die Pizza geschnitten wird. So eine Pizza findet man in Deutschland selten. Ganz klar Geschmack wie in Bella Italia."
+      },
+      {
+        "name": "Gottfried W. Melle-Wladika",
+        "rating": 5,
+        "date": "vor 7 Monaten",
+        "text": "Haben hier für meinen Geburtstag Partypizzen bestellt. Lieferung war pünktlich, Pizzen haben sehr gut geschmeckt, und kulanterweise wurde eine fehlerhaft belegte Pizza sogar kostenfrei ausgetauscht. Super Service!"
+      },
+      {
+        "name": "M. S.",
+        "rating": 5,
+        "date": "vor 3 Jahren",
+        "text": "Man kann dem Pizzabäcker bei der Zubereitung zuschauen. Für den Teig wird Caputo Mehl verwendet und Fior di Latte Mozzarella, der Teig ruht 72 Stunden. Die Qualität der Zutaten und die lange Teigruhe schmeckt man. Freundlicherweise gab es einen Gruß aus der Küche gratis dazu, einen mit Nutella gefüllten Pizzateig. Es gibt übrigens eine Treuekarte. Fazit: Gerne wieder."
+      }
+    ]
+  },
+  "menu": [
+    {
+      "category": "Pizze Classiche",
+      "subtitle": "Klassiker mit Tomate und Fior di Latte",
+      "items": [
+        { "name": "Margherita", "description": "Tomate, Fior di Latte, Basilikum, Olivenöl. Der Klassiker, mit dem alles steht und fällt.", "price": "" },
+        { "name": "Salami", "description": "Tomate, Fior di Latte, italienische Salami.", "price": "" },
+        { "name": "Funghi", "description": "Tomate, Fior di Latte, frische Champignons, Kräuter.", "price": "" },
+        { "name": "Diavola", "description": "Tomate, Fior di Latte, scharfe Salami, Peperoni, Zwiebeln.", "price": "" }
+      ]
+    },
+    {
+      "category": "Pizze Speciali",
+      "subtitle": "Belegt, wie sie unten am Ofen entstehen",
+      "items": [
+        { "name": "Prosciutto e Rucola", "description": "Tomate, Fior di Latte, Prosciutto, Rucola nach dem Backen aufgelegt.", "price": "" },
+        { "name": "Rucola e Mozzarella", "description": "Tomate, Mozzarella, frischer Rucola, Olivenöl.", "price": "" },
+        { "name": "Pollo Piccante", "description": "Tomate, Fior di Latte, Hähnchen, Mais, Jalapeños, Kräuter.", "price": "" },
+        { "name": "Salami, Pilze & Mais", "description": "Tomate, Fior di Latte, Salami, frische Champignons, Mais.", "price": "" },
+        { "name": "Salami, Oliven & Feta", "description": "Tomate, Fior di Latte, Salami, schwarze Oliven, Feta.", "price": "" },
+        { "name": "Hawaii à la Casa", "description": "Tomate, Fior di Latte, Salami, Ananas, Paprika.", "price": "" }
+      ]
+    },
+    {
+      "category": "Pizze Bianche",
+      "subtitle": "Ohne Tomate, dafür mit mehr Käse",
+      "items": [
+        { "name": "Quattro Formaggi", "description": "Fior di Latte, Gorgonzola, Pecorino, Parmigiano.", "price": "" },
+        { "name": "Bianca con Funghi", "description": "Fior di Latte, Champignons, Kräuter, Olivenöl.", "price": "" },
+        { "name": "Verdure", "description": "Fior di Latte, gegrilltes Gemüse, frisches Basilikum.", "price": "" }
+      ]
+    },
+    {
+      "category": "Insalate & Beilagen",
+      "subtitle": "Frisch zur Pizza",
+      "items": [
+        { "name": "Gemischter Salat mit Feta", "description": "Tomaten, Gurken, Paprika, Oliven, Zwiebeln, Feta.", "price": "" },
+        { "name": "Pizzabrot", "description": "Frisch aus dem Ofen, mit Knoblauchöl oder Kräutern.", "price": "" }
+      ]
+    },
+    {
+      "category": "Dolci",
+      "subtitle": "Süßer Abschluss",
+      "items": [
+        { "name": "Nutella-Pizzateig", "description": "Gefüllter Pizzateig mit Nutella, frisch aus dem Ofen.", "price": "" },
+        { "name": "Tiramisù", "description": "Hausgemacht mit Mascarpone und Espresso.", "price": "" }
+      ]
+    }
+  ],
+  "legal": {
+    "ownerName": "",
+    "vatId": "",
+    "responsiblePerson": ""
+  }
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "originalFile": "scraped-01.jpg",
+    "file": "photos/restaurant/pizzatheke-mit-auslage-01.jpg",
+    "category": "restaurant",
+    "quality": "high",
+    "subject": "Pizzatheke mit Auslage",
+    "subjectSlug": "pizzatheke-mit-auslage",
+    "description": "Eine gut beleuchtete Pizzatheke mit verschiedenen Pizzen und Gebäck in einem Restaurant."
+  },
+  {
+    "originalFile": "scraped-02.jpg",
+    "file": "photos/dishes/pizza-mit-ananas-salami-und-paprika-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza mit Ananas, Salami und Paprika",
+    "subjectSlug": "pizza-mit-ananas-salami-und-paprika",
+    "description": "Eine leckere Pizza mit Ananas, Salami, Paprika und Zwiebeln in einem Pizzakarton, bereit zum Verzehr."
+  },
+  {
+    "originalFile": "scraped-03.jpg",
+    "file": "photos/dishes/pizza-mit-mozzarella-und-rucola-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza mit Mozzarella und Rucola",
+    "subjectSlug": "pizza-mit-mozzarella-und-rucola",
+    "description": "Eine frisch zubereitete Pizza mit Tomaten, Mozzarella und Rucola auf einem Teller, serviert im Freien."
+  },
+  {
+    "originalFile": "scraped-04.jpg",
+    "file": "photos/dishes/pizza-mit-hackfleisch-und-brokkoli-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza mit Hackfleisch und Brokkoli",
+    "subjectSlug": "pizza-mit-hackfleisch-und-brokkoli",
+    "description": "Eine frisch gebackene Pizza mit weißer Soße, Hackfleisch, Brokkoli, Mais und Jalapeños liegt auf einem dunklen Tisch."
+  },
+  {
+    "originalFile": "scraped-05.jpg",
+    "file": "photos/dishes/kase-pizza-mit-krautern-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Käse-Pizza mit Kräutern",
+    "subjectSlug": "kase-pizza-mit-krautern",
+    "description": "Eine frisch gebackene Käse-Pizza mit geschmolzenem Käse und Kräutern in einer weißen Pizzaschachtel."
+  },
+  {
+    "originalFile": "scraped-06.jpg",
+    "file": "photos/menu_cards/pizzakarte-an-der-wand-01.jpg",
+    "category": "menu_card",
+    "quality": "high",
+    "subject": "Pizzakarte an der Wand",
+    "subjectSlug": "pizzakarte-an-der-wand",
+    "description": "Eine große Speisekarte an der Wand eines Pizza-Restaurants, die verschiedene Pizzen, Salate, Getränke und Preise zeigt."
+  },
+  {
+    "originalFile": "scraped-07.jpg",
+    "file": "photos/restaurant/auenansicht-pizza-restaurant-01.jpg",
+    "category": "restaurant",
+    "quality": "high",
+    "subject": "Außenansicht Pizza-Restaurant",
+    "subjectSlug": "auenansicht-pizza-restaurant",
+    "description": "Die Außenansicht des Pizza-Restaurants 'Casa della Pizza' mit dem 'Welde'-Schild und einem Fenster, das 'Eröffnung' anzeigt."
+  },
+  {
+    "originalFile": "scraped-08.jpg",
+    "file": "photos/dishes/gemischter-salat-mit-feta-und-oliven-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Gemischter Salat mit Feta und Oliven",
+    "subjectSlug": "gemischter-salat-mit-feta-und-oliven",
+    "description": "Ein frischer, bunter Salat mit Tomaten, Gurken, Oliven, Paprika, Zwiebeln und Feta, angerichtet in einer transparenten Schale."
+  },
+  {
+    "originalFile": "scraped-09.jpg",
+    "file": "photos/dishes/pizza-mit-rucola-und-mozzarella-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza mit Rucola und Mozzarella",
+    "subjectSlug": "pizza-mit-rucola-und-mozzarella",
+    "description": "Eine frisch zubereitete Pizza mit Tomaten, Rucola und Mozzarella in einer Pizzaschachtel."
+  },
+  {
+    "originalFile": "scraped-10.jpg",
+    "file": "photos/dishes/margherita-pizza-in-karton-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Margherita Pizza in Karton",
+    "subjectSlug": "margherita-pizza-in-karton",
+    "description": "Eine frisch gebackene Margherita Pizza mit Basilikumblättern in einem Pizzakarton."
+  },
+  {
+    "originalFile": "scraped-11.jpg",
+    "file": "photos/dishes/pizza-mit-hahnchen-mais-und-jalapenos-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza mit Hähnchen, Mais und Jalapeños",
+    "subjectSlug": "pizza-mit-hahnchen-mais-und-jalapenos",
+    "description": "Eine frisch gebackene Pizza mit Hähnchen, Mais, Jalapeños und Kräutern liegt in einer weißen Pizzaschachtel."
+  },
+  {
+    "originalFile": "scraped-12.jpg",
+    "file": "photos/dishes/pizza-mit-pilzen-und-kase-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza mit Pilzen und Käse",
+    "subjectSlug": "pizza-mit-pilzen-und-kase",
+    "description": "Eine frisch gebackene Pizza mit Pilzen und viel Käse in einer Pizzaschachtel."
+  },
+  {
+    "originalFile": "scraped-13.jpg",
+    "file": "photos/dishes/pizza-mit-rucola-und-prosciutto-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza mit Rucola und Prosciutto",
+    "subjectSlug": "pizza-mit-rucola-und-prosciutto",
+    "description": "Eine leckere Pizza mit Rucola, Prosciutto und geschmolzenem Käse in einer Pizzaschachtel."
+  },
+  {
+    "originalFile": "scraped-14.jpg",
+    "file": "photos/dishes/pizza-mit-gemuse-und-basilikum-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza mit Gemüse und Basilikum",
+    "subjectSlug": "pizza-mit-gemuse-und-basilikum",
+    "description": "Eine frisch gebackene Pizza mit Tomaten, Mozzarella, verschiedenen Gemüsesorten und Basilikumblättern in einem Pizzakarton."
+  },
+  {
+    "originalFile": "scraped-15.jpg",
+    "file": "photos/dishes/kase-pizza-im-karton-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Käse-Pizza im Karton",
+    "subjectSlug": "kase-pizza-im-karton",
+    "description": "Eine frisch gebackene Käse-Pizza mit Tomatensauce und Kräutern in einem weißen Pizzakarton."
+  },
+  {
+    "originalFile": "scraped-16.jpg",
+    "file": "photos/dishes/pizza-mit-salami-oliven-und-feta-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza mit Salami, Oliven und Feta",
+    "subjectSlug": "pizza-mit-salami-oliven-und-feta",
+    "description": "Eine frisch gebackene Pizza mit Salami, schwarzen Oliven und Feta-Käse in einem Pizzakarton."
+  },
+  {
+    "originalFile": "scraped-17.jpg",
+    "file": "photos/dishes/pizza-mit-peperoni-und-zwiebeln-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza mit Peperoni und Zwiebeln",
+    "subjectSlug": "pizza-mit-peperoni-und-zwiebeln",
+    "description": "Eine leckere Pizza mit Peperoni, Zwiebeln und Kräutern in einem Pizzakarton."
+  },
+  {
+    "originalFile": "scraped-18.jpg",
+    "file": "photos/dishes/pizza-mit-salami-pilzen-und-mais-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza mit Salami, Pilzen und Mais",
+    "subjectSlug": "pizza-mit-salami-pilzen-und-mais",
+    "description": "Eine frisch gebackene Pizza mit Salami, Pilzen und Mais in einem Pizzakarton."
+  },
+  {
+    "originalFile": "scraped-19.jpg",
+    "file": "photos/dishes/pizza-mit-peperoni-mais-und-zwiebeln-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Pizza mit Peperoni, Mais und Zwiebeln",
+    "subjectSlug": "pizza-mit-peperoni-mais-und-zwiebeln",
+    "description": "Eine frisch zubereitete Pizza mit Peperoni, Mais und Zwiebeln in einer weißen Pizzaschachtel."
+  },
+  {
+    "originalFile": "scraped-20.jpg",
+    "file": "photos/_skipped/buchstabe-l-01.jpg",
+    "category": "skip",
+    "quality": "high",
+    "subject": "Buchstabe L",
+    "subjectSlug": "buchstabe-l",
+    "description": "Ein weißer Buchstabe L auf braunem Hintergrund."
+  }
+]
