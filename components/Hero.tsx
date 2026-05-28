@@ -113,7 +113,7 @@ export function Hero() {
               </p>
               <div className="mt-6 flex flex-wrap items-center gap-3 md:mt-8 md:gap-4">
                 <a
-                  href="tel:+4962025827553"
+                  href="/bestellen"
                   className="inline-flex items-center justify-center rounded-full bg-ink px-7 py-3 text-[13px] font-medium tracking-wide text-bone transition-colors hover:bg-ink/85"
                 >
                   Pizza bestellen

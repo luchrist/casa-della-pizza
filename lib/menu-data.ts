@@ -25,25 +25,68 @@ export const menuImageUrls: string[] = [];
 
 export const menuCategories: MenuCategory[] = [
   {
-    "id": "speisekarte",
-    "label": "Speisekarte",
+    "id": "vorspeisen",
+    "label": "Vorspeisen",
     "items": [
       {
-        "name": "10– von 59 Personen gemeldet",
-        "description": "Preis pro Person:",
-        "price": "20"
+        "name": "Carpaccio di Manzo",
+        "description": "mit Parmesan und Rucola",
+        "price": "14,00 €"
       },
       {
-        "name": "1–",
-        "price": "10"
+        "name": "Schafskäse überbacken",
+        "price": "10,50 €"
       },
       {
-        "name": "10–",
-        "price": "20"
+        "name": "Bruschetta",
+        "price": "6,50 €"
+      }
+    ]
+  },
+  {
+    "id": "insalate",
+    "label": "Insalate",
+    "intro": "Frische, knackige Salate mit Dressings Ihrer Wahl: Hausdressing, Joghurtdressing oder Balsamicodressing",
+    "items": [
+      {
+        "name": "Grüner Salat",
+        "description": "mit Tomaten, Gurken und Oliven",
+        "price": "5,00 €"
       },
       {
-        "name": "20–",
-        "price": "30"
+        "name": "Italienischer Salat",
+        "description": "mit Tomaten, Gurken, Käse, Schinken, Ei, Oliven und Peperoni. Wahl aus: Klein oder Groß",
+        "price": "6,50 €"
+      },
+      {
+        "name": "Contadina Salat",
+        "description": "mit Tomaten, Gurken, Käse, Schinken, Ei, Oliven, Peperoni, Thunfisch und Zwiebeln. Wahl aus: Klein oder Groß",
+        "price": "7,50 €"
+      },
+      {
+        "name": "Bauernsalat",
+        "description": "mit Schafskäse, Paprika, Zwiebeln, Gurken, Tomaten, Sellerie und Schafskäse",
+        "price": "11,00 €"
+      },
+      {
+        "name": "Insalata Caprese",
+        "description": "mit Tomaten, Büffelmozzarella und Oliven",
+        "price": "12,50 €"
+      },
+      {
+        "name": "Nizzasalat",
+        "description": "mit Tomaten, Gurken, Käse, Oliven, Peperoni, Thunfisch, Krabben und Artischocken",
+        "price": "11,00 €"
+      },
+      {
+        "name": "Insalata di Pollo",
+        "description": "mit Hähnchenbrustfilet, Tomaten, Gurken, Mais und Paprika",
+        "price": "11,00 €"
+      },
+      {
+        "name": "Insalata Toscana",
+        "description": "mit Rucola, Cherrytomaten, gehobelter Parmesan, Mozzarella, Frischkäse und Balsamicocreme",
+        "price": "11,00 €"
       }
     ]
   }

@@ -101,22 +101,18 @@ export default function KontaktPage() {
               )}
             </div>
 
-            {config.contact.instagram && (
+            {config.contact.facebook && (
               <div className="mt-12">
                 <div className="font-mono text-[10px] uppercase tracking-[0.18em] text-ink/55 md:text-[11px] md:tracking-[0.22em]">
-                  Instagram
+                  Facebook
                 </div>
                 <a
-                  href={
-                    config.contact.instagram.startsWith("http")
-                      ? config.contact.instagram
-                      : `https://instagram.com/${config.contact.instagram.replace("@", "")}`
-                  }
+                  href={config.contact.facebook}
                   target="_blank"
                   rel="noreferrer noopener"
                   className="mt-3 block font-mono text-[14px] text-ink hover:text-rosso-600"
                 >
-                  @la_casa_della_pizza
+                  Casa della Pizza
                 </a>
               </div>
             )}

@@ -10,7 +10,7 @@
   "contact": {
     "phone": "06202 5827553",
     "email": "",
-    "instagram": "@la_casa_della_pizza"
+    "facebook": "https://www.facebook.com/100092478738159/"
   },
   "openingHours": [
     { "day": "Montag",     "hours": "Ruhetag" },
@@ -48,50 +48,171 @@
   },
   "menu": [
     {
-      "category": "Pizze Classiche",
-      "subtitle": "Klassiker mit Tomate und Fior di Latte",
+      "category": "Vorspeisen",
+      "subtitle": "",
       "items": [
-        { "name": "Margherita", "description": "Tomate, Fior di Latte, Basilikum, Olivenöl. Der Klassiker, mit dem alles steht und fällt.", "price": "" },
-        { "name": "Salami", "description": "Tomate, Fior di Latte, italienische Salami.", "price": "" },
-        { "name": "Funghi", "description": "Tomate, Fior di Latte, frische Champignons, Kräuter.", "price": "" },
-        { "name": "Diavola", "description": "Tomate, Fior di Latte, scharfe Salami, Peperoni, Zwiebeln.", "price": "" }
+        { "name": "Carpaccio di Manzo", "description": "mit Parmesan und Rucola", "price": "14,00 €" },
+        { "name": "Schafskäse überbacken", "description": "", "price": "10,50 €" },
+        { "name": "Bruschetta", "description": "", "price": "6,50 €" }
+      ]
+    },
+    {
+      "category": "Pizze Classiche",
+      "subtitle": "Alle Pizzen werden mit Tomatensauce und Gouda zubereitet",
+      "items": [
+        { "name": "Pizzabrot", "description": "mit Tomatensauce und Knoblauch", "price": "7,50 €" },
+        { "name": "Pizza Margherita", "description": "auch als Party Pizza 40x60 cm", "price": "8,50 €" },
+        { "name": "Pizza Italia", "description": "mit Paprika und Zwiebeln", "price": "9,50 €" },
+        { "name": "Pizza Hawaii", "description": "mit Ananas und Schinken", "price": "9,50 €" },
+        { "name": "Pizza Mista", "description": "mit Pilze, Salami und Schinken", "price": "10,00 €" },
+        { "name": "Pizza Mozzarella", "description": "mit frischen Tomaten, Mozzarella und Basilikum", "price": "10,00 €" },
+        { "name": "Pizza Quattro Formagi", "description": "mit 4 verschiedenen Käsesorten", "price": "10,50 €" },
+        { "name": "Pizza Quattro Stagioni", "description": "mit Salami, Schinken, Artischocken, Paprika, Pilzen und Oliven", "price": "10,50 €" }
       ]
     },
     {
       "category": "Pizze Speciali",
-      "subtitle": "Belegt, wie sie unten am Ofen entstehen",
+      "subtitle": "Unsere besonderen Kreationen",
       "items": [
-        { "name": "Prosciutto e Rucola", "description": "Tomate, Fior di Latte, Prosciutto, Rucola nach dem Backen aufgelegt.", "price": "" },
-        { "name": "Rucola e Mozzarella", "description": "Tomate, Mozzarella, frischer Rucola, Olivenöl.", "price": "" },
-        { "name": "Pollo Piccante", "description": "Tomate, Fior di Latte, Hähnchen, Mais, Jalapeños, Kräuter.", "price": "" },
-        { "name": "Salami, Pilze & Mais", "description": "Tomate, Fior di Latte, Salami, frische Champignons, Mais.", "price": "" },
-        { "name": "Salami, Oliven & Feta", "description": "Tomate, Fior di Latte, Salami, schwarze Oliven, Feta.", "price": "" },
-        { "name": "Hawaii à la Casa", "description": "Tomate, Fior di Latte, Salami, Ananas, Paprika.", "price": "" }
+        { "name": "Pizza Capricciosa", "description": "mit Schinken, Oliven, Artischocken und Peperoni", "price": "10,00 €" },
+        { "name": "Pizza Americana", "description": "mit Peperoniwurst und Pilze", "price": "10,00 €" },
+        { "name": "Pizza Gorgonzola", "description": "mit Schinken und Gorgonzola", "price": "10,00 €" },
+        { "name": "Pizza Sicilia", "description": "mit Sardellen, Oliven, Artischocken und Knoblauch", "price": "10,00 €" },
+        { "name": "Pizza Tiziano", "description": "mit Salami, Schafskäse und Oliven", "price": "10,00 €" },
+        { "name": "Pizza Peppino", "description": "mit Mais, Schinken und Pilzen", "price": "10,00 €" },
+        { "name": "Pizza Speziale", "description": "mit Salami, Schinken, Pilzen, Artischocken und Paprika", "price": "10,50 €" },
+        { "name": "Pizza Vulcano", "description": "mit Salami, Pilzen, Speck und Spiegelei", "price": "10,50 €" },
+        { "name": "Pizza Hollandaise", "description": "mit Schinken, Broccoli und Sauce Hollandaise", "price": "10,50 €" },
+        { "name": "Pizza Alla Buttanesca", "description": "mit Salami, Schinken, Pilzen, Zwiebeln, Peperoni, Oliven, Artischocken und Knoblauch", "price": "11,50 €" },
+        { "name": "Pizza Zazza", "description": "mit Tomatensauce, Schinken, Ananas, Thunfisch und Peperoni", "price": "11,50 €" },
+        { "name": "Pizza Parma", "description": "mit Parmaschinken, Tomatenscheiben, Rucola und gehobeltem Parmesan", "price": "12,00 €" },
+        { "name": "Pizza Jolly", "description": "mit vier verschiedenen Käsesorten, Peperoniwurst, ohne Tomatensauce", "price": "12,50 €" },
+        { "name": "Pizza Filippo", "description": "mit frischen Tomaten, Pilzen, Mozzarella und Basilikum", "price": "13,00 €" }
       ]
     },
     {
-      "category": "Pizze Bianche",
-      "subtitle": "Ohne Tomate, dafür mit mehr Käse",
+      "category": "Pizze di Mare",
+      "subtitle": "Pizzen mit Fisch und Meeresfrüchten",
       "items": [
-        { "name": "Quattro Formaggi", "description": "Fior di Latte, Gorgonzola, Pecorino, Parmigiano.", "price": "" },
-        { "name": "Bianca con Funghi", "description": "Fior di Latte, Champignons, Kräuter, Olivenöl.", "price": "" },
-        { "name": "Verdure", "description": "Fior di Latte, gegrilltes Gemüse, frisches Basilikum.", "price": "" }
+        { "name": "Pizza Tonno", "description": "mit Thunfisch und Zwiebeln", "price": "10,00 €" },
+        { "name": "Pizza Bella Vista", "description": "mit Ei, Thunfisch, Knoblauch und Zwiebeln", "price": "10,00 €" },
+        { "name": "Pizza Sardellen", "description": "mit Oliven, Sardellen, Zwiebeln, Peperoni und Kapern", "price": "10,50 €" },
+        { "name": "Pizza Mare e Monti", "description": "mit Krabben und Pilzen", "price": "11,00 €" },
+        { "name": "Pizza Frutti di Mare", "description": "mit Meeresfrüchten und Knoblauch", "price": "12,00 €" },
+        { "name": "Pizza Salmone", "description": "mit Lachs, Spinat und Knoblauch", "price": "13,00 €" }
       ]
     },
     {
-      "category": "Insalate & Beilagen",
-      "subtitle": "Frisch zur Pizza",
+      "category": "Pizze Vegetariane",
+      "subtitle": "Vegetarische Pizzen",
       "items": [
-        { "name": "Gemischter Salat mit Feta", "description": "Tomaten, Gurken, Paprika, Oliven, Zwiebeln, Feta.", "price": "" },
-        { "name": "Pizzabrot", "description": "Frisch aus dem Ofen, mit Knoblauchöl oder Kräutern.", "price": "" }
+        { "name": "Pizza Vita Mia", "description": "mit Artischocken, Paprika, Peperoni und Oliven", "price": "10,00 €" },
+        { "name": "Pizza Spinaci", "description": "mit Blattspinat, Oliven und Knoblauch", "price": "10,00 €" },
+        { "name": "Pizza Broccoli", "description": "mit Pilzen und Broccoli", "price": "10,00 €" },
+        { "name": "Pizza Bianca", "description": "mit Schafskäse, Peperoni und Knoblauch", "price": "10,00 €" },
+        { "name": "Pizza Melanzane", "description": "mit Auberginen und Mozzarella", "price": "11,00 €" },
+        { "name": "Pizza Fantasia", "description": "mit frischen Tomaten, Spinat und Gorgonzola", "price": "11,00 €" },
+        { "name": "Pizza Vegetaria", "description": "mit Broccoli, Oliven, Schafskäse und Knoblauch", "price": "11,00 €" },
+        { "name": "Pizza Rucola", "description": "mit frischen Tomaten, Rucola, Parmesan und Knoblauch", "price": "11,00 €" },
+        { "name": "Pizza Bufala", "description": "mit Büffelmozzarella, Cherry Tomaten, Rucola und Parmesan", "price": "12,00 €" },
+        { "name": "Pizza Pesto", "description": "mit Frischkäse, Cherry Tomaten, Rucola und Mozzarella", "price": "12,50 €" },
+        { "name": "Pizza Verdure", "description": "mit Zucchini, Auberginen, Knoblauch, Oliven, Mozzarella", "price": "13,00 €" }
+      ]
+    },
+    {
+      "category": "Pikante & Fleisch-Pizzen",
+      "subtitle": "Herzhaft und würzig",
+      "items": [
+        { "name": "Pizza Diavola", "description": "mit Peperoniwurst, Zwiebeln und Knoblauch", "price": "10,00 €" },
+        { "name": "Pizza Abruzzese", "description": "scharf – mit Peperoniwurst, scharfe Peperoni, Zwiebeln und Paprika", "price": "10,50 €" },
+        { "name": "Pizza Mexicana", "description": "mit Hackfleisch, Zwiebeln, Mais, Paprika und Peperoni", "price": "11,00 €" },
+        { "name": "Pizza Döner", "description": "mit Dönerfleisch, Käse und Knoblauchsauce und etwas Tomatensauce", "price": "11,00 €" },
+        { "name": "Pizza Paperino", "description": "mit Würstel und Pommes", "price": "11,00 €" },
+        { "name": "Pizza Pollo", "description": "mit Pute, Mais und Pilzen", "price": "12,00 €" },
+        { "name": "Pizza Chef", "description": "mit Sauce Hollandaise, Knoblauch, Broccoli, Rinderhack und Mais", "price": "12,00 €" },
+        { "name": "Pizza Karibik", "description": "mit Hähnchenstreifen, Ananas, Pilze, mit BBQ-Sauce (ohne Tomatensauce)", "price": "13,00 €" },
+        { "name": "Pizza Della Casa", "description": "Sauce Hollandaise, Mais, Paprika, Hähnchenstreifen, Käse, Knoblauch, Jalapeños (scharf)", "price": "13,00 €" },
+        { "name": "Pizza Barbeque", "description": "scharf – mit Hähnchenstreifen, Mais, Jalapeños und BBQ-Sauce (ohne Tomatensauce)", "price": "13,00 €" }
+      ]
+    },
+    {
+      "category": "Calzone & Party",
+      "subtitle": "Gefüllt und im Großformat",
+      "items": [
+        { "name": "Pizza Calzone", "description": "mit Pilzen, Schinken und Salami gefüllt", "price": "10,50 €" },
+        { "name": "Pizza Calzone Hawaii", "description": "gefüllt mit Ananas und Schinken", "price": "10,00 €" },
+        { "name": "Pizza Party 60x40 cm", "description": "mit Tomaten und Käse und Beläge nach Wahl", "price": "24,00 €" }
+      ]
+    },
+    {
+      "category": "Pasta",
+      "subtitle": "Alle Pastagerichte überbacken mit Napoli & Käse",
+      "items": [
+        { "name": "Lasagne", "description": "hausgemacht, Rindfleisch", "price": "12,50 €" },
+        { "name": "Cannelloni mit Spinat und Ricotta", "description": "gefüllt mit Spinat und Ricotta, in Tomatensauce", "price": "12,50 €" },
+        { "name": "Cannelloni mit Fleisch", "description": "gefüllt mit Fleisch (Schwein), in Tomatensauce", "price": "12,50 €" }
+      ]
+    },
+    {
+      "category": "Schnitzel",
+      "subtitle": "Mit Pommes als Beilage",
+      "items": [
+        { "name": "Wiener Schnitzel", "description": "Schweinefleisch, mit Pommes", "price": "14,50 €" },
+        { "name": "Schnitzel Napoli", "description": "überbacken mit Tomatensauce und Käse, mit Pommes (Schweinefleisch)", "price": "17,00 €" },
+        { "name": "Käseschnitzel", "description": "mit Sahnesoße, Schinken und Käse, mit Pommes (Schweinefleisch)", "price": "18,50 €" }
+      ]
+    },
+    {
+      "category": "Snacks",
+      "subtitle": "",
+      "items": [
+        { "name": "Pommes", "description": "", "price": "4,00 €" },
+        { "name": "Chicken Nuggets", "description": "6 oder 10 Stück", "price": "5,50 €" },
+        { "name": "Potato Wedges", "description": "", "price": "6,50 €" },
+        { "name": "Chicken Wings", "description": "6 oder 10 Stück", "price": "7,50 €" },
+        { "name": "Mix Box", "description": "4 Chicken Nuggets, 4 Chicken Wings, Potato Wedges", "price": "13,00 €" },
+        { "name": "Ketchup", "description": "", "price": "0,50 €" },
+        { "name": "Mayonnaise", "description": "", "price": "0,50 €" },
+        { "name": "Sour Cream", "description": "", "price": "0,50 €" },
+        { "name": "Süß-Sauer-Sauce", "description": "", "price": "0,50 €" }
+      ]
+    },
+    {
+      "category": "Insalate",
+      "subtitle": "Frische, knackige Salate mit Dressings Ihrer Wahl: Hausdressing, Joghurtdressing oder Balsamicodressing",
+      "items": [
+        { "name": "Grüner Salat", "description": "mit Tomaten, Gurken und Oliven", "price": "5,00 €" },
+        { "name": "Italienischer Salat", "description": "mit Tomaten, Gurken, Käse, Schinken, Ei, Oliven und Peperoni. Wahl aus: Klein oder Groß", "price": "6,50 €" },
+        { "name": "Contadina Salat", "description": "mit Tomaten, Gurken, Käse, Schinken, Ei, Oliven, Peperoni, Thunfisch und Zwiebeln. Wahl aus: Klein oder Groß", "price": "7,50 €" },
+        { "name": "Bauernsalat", "description": "mit Schafskäse, Paprika, Zwiebeln, Gurken, Tomaten, Sellerie und Schafskäse", "price": "11,00 €" },
+        { "name": "Insalata Caprese", "description": "mit Tomaten, Büffelmozzarella und Oliven", "price": "12,50 €" },
+        { "name": "Nizzasalat", "description": "mit Tomaten, Gurken, Käse, Oliven, Peperoni, Thunfisch, Krabben und Artischocken", "price": "11,00 €" },
+        { "name": "Insalata di Pollo", "description": "mit Hähnchenbrustfilet, Tomaten, Gurken, Mais und Paprika", "price": "11,00 €" },
+        { "name": "Insalata Toscana", "description": "mit Rucola, Cherrytomaten, gehobelter Parmesan, Mozzarella, Frischkäse und Balsamicocreme", "price": "11,00 €" }
       ]
     },
     {
       "category": "Dolci",
       "subtitle": "Süßer Abschluss",
       "items": [
-        { "name": "Nutella-Pizzateig", "description": "Gefüllter Pizzateig mit Nutella, frisch aus dem Ofen.", "price": "" },
-        { "name": "Tiramisù", "description": "Hausgemacht mit Mascarpone und Espresso.", "price": "" }
+        { "name": "Tartufo", "description": "", "price": "6,50 €" },
+        { "name": "Apfelstrudel", "description": "mit Sahne", "price": "6,50 €" },
+        { "name": "Hausgemachtes Tiramisu", "description": "nach klassischer Rezeptur (enthält Kaffee und Alkohol)", "price": "6,50 €" },
+        { "name": "Pizza Nutella", "description": "Ø 28 cm", "price": "8,00 €" }
+      ]
+    },
+    {
+      "category": "Alkoholfreie Getränke",
+      "subtitle": "Alle Getränke inkl. Pfand",
+      "items": [
+        { "name": "Coca Cola 0,33 l", "description": "inkl. Pfand (0,25 €), enthält Koffein", "price": "2,50 €" },
+        { "name": "Mezzo Mix", "description": "Wahl aus: 0,33 l oder 1 l", "price": "2,75 €" },
+        { "name": "Wasser 0,5 l", "description": "mit Kohlensäure", "price": "2,75 €" },
+        { "name": "Apfelsaftschorle 0,5 l", "description": "", "price": "2,75 €" },
+        { "name": "Red Bull 0,25 l", "description": "inkl. Pfand (0,25 €), enthält Koffein", "price": "3,50 €" },
+        { "name": "Coca-Cola 1,0 l", "description": "MEHRWEG, inkl. Pfand (0,15 €), enthält Koffein", "price": "3,65 €" },
+        { "name": "Coca-Cola Zero Sugar 1,0 l", "description": "MEHRWEG, inkl. Pfand (0,15 €), enthält Koffein", "price": "3,65 €" },
+        { "name": "Fanta Orange 1,0 l", "description": "MEHRWEG, inkl. Pfand (0,15 €)", "price": "3,65 €" }
       ]
     }
   ],

@@ -26,9 +26,17 @@ export function DishCarousel({ items }: { items: DishCarouselItem[] }) {
       const card = el.querySelector<HTMLElement>("[data-card]");
       const step = (card?.offsetWidth ?? 300) + 24;
       const current = Math.round(el.scrollLeft / step);
-      scrollToIndex(current + dir);
+      const atEnd = el.scrollLeft + el.clientWidth >= el.scrollWidth - 10;
+      const atStart = el.scrollLeft <= 10;
+      if (dir === 1 && atEnd) {
+        scrollToIndex(0);
+      } else if (dir === -1 && atStart) {
+        scrollToIndex(items.length - 1);
+      } else {
+        scrollToIndex(current + dir);
+      }
     },
-    [scrollToIndex]
+    [scrollToIndex, items.length]
   );
 
   useEffect(() => {

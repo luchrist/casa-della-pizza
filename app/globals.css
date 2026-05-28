@@ -53,6 +53,13 @@
     background-size: 100% 1px;
     background-position: 0 100%;
   }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
   .marker {
     display: inline-block;
     width: 0.4rem;

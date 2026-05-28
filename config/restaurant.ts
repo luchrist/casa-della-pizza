@@ -42,7 +42,7 @@ export type RestaurantConfigBridge = {
   contact: {
     phone: string;
     email: string;
-    instagram: string;
+    facebook: string;
   };
   openingHours: OpeningHoursEntry[];
   reviews: {
@@ -69,9 +69,9 @@ const config: RestaurantConfigBridge = {
   contact: {
     phone: restaurant.phone,
     email: restaurant.email,
-    instagram: restaurant.socialMedia.hidden.instagram
+    facebook: restaurant.socialMedia.hidden.facebook
       ? ""
-      : restaurant.socialMedia.instagram,
+      : restaurant.socialMedia.facebook,
   },
   openingHours: restaurant.hours.map((h) => ({
     day: h.day,

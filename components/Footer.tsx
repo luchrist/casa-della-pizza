@@ -1,9 +1,8 @@
-import { InstagramLogo, FacebookLogo, TiktokLogo } from "@phosphor-icons/react/dist/ssr";
+import { FacebookLogo, TiktokLogo } from "@phosphor-icons/react/dist/ssr";
 import config from "@/config/restaurant.json";
 
 const socials = [
-  { label: "Instagram", href: "https://www.instagram.com/la_casa_della_pizza/", Icon: InstagramLogo },
-  { label: "Facebook",  href: "https://www.facebook.com/lacasadellapizza.de",   Icon: FacebookLogo  },
+  { label: "Facebook",  href: "https://www.facebook.com/100092478738159/",       Icon: FacebookLogo  },
   { label: "TikTok",    href: "https://www.tiktok.com/@lacasadellapizza_pan",   Icon: TiktokLogo   }
 ];
 

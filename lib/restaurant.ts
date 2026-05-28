@@ -87,7 +87,7 @@ export const restaurant: RestaurantConfig = {
   "googleBusinessProfileUrl": "https://maps.google.com/?cid=13365070258729384808&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
   "socialMedia": {
     "instagram": "https://www.instagram.com/la_casa_della_pizza/",
-    "facebook": "https://www.facebook.com/lacasadellapizza.de",
+    "facebook": "https://www.facebook.com/100092478738159/",
     "tiktok": "https://www.tiktok.com/@lacasadellapizza_pan",
     "hidden": {
       "instagram": false,

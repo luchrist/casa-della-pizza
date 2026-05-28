@@ -7,17 +7,17 @@ const chapters = [
   {
     n: "01",
     title: "Caputo-Mehl, 72 Stunden Geduld",
-    body: "Unser Teig braucht drei Tage, bevor er auf das Blech kommt. Caputo-Mehl, kalte Reife, langsame Gärung. Stammgäste schmecken den Unterschied schon nach dem ersten Biss."
+    body: "Unser Teig braucht drei Tage, bevor er auf das Blech kommt. Caputo-Mehl, kalte Reife, langsame Gärung. Gäste schmecken den Unterschied schon nach dem ersten Biss."
   },
   {
     n: "02",
     title: "Fior di Latte, kein Ersatz",
-    body: "Auf jede Pizza kommt Fior di Latte Mozzarella. Anderer Käse wäre einfacher, aber dann schmeckt sie eben nicht mehr wie in Bella Italia."
+    body: "Auf jede Pizza kommt Fior di Latte Mozzarella. Ganz wie in Bella Italia."
   },
   {
     n: "03",
     title: "Sonderwünsche sind willkommen",
-    body: "Du siehst dem Pizzabäcker beim Belegen zu, fragst nach den Zutaten, sagst was drauf soll und was nicht. Für Geburtstage backen wir Partypizzen, und es gibt eine Treuekarte für alle, die wiederkommen."
+    body: "Zusehen, mitwählen, genießen. Partypizzen für Geburtstage, Treuekarte für Stammkunden."
   }
 ];
 

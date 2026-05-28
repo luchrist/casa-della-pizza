@@ -6,6 +6,7 @@ import config from "@/config/restaurant.json";
 const links = [
   { href: "#storia", label: "Storia" },
   { href: "#menu", label: "Carta" },
+  { href: "/bestellen", label: "Bestellen" },
   { href: "/reservierung", label: "Kontakt" }
 ];
 
@@ -62,13 +63,13 @@ export function Navbar() {
             ))}
           </div>
 
-          {/* Desktop: Kontakt button */}
+          {/* Desktop: Bestellen button */}
           <a
-            href="/reservierung"
+            href="/bestellen"
             className="group relative hidden items-center gap-3 overflow-hidden rounded-full border border-ink px-5 py-2.5 font-mono text-[11px] uppercase tracking-[0.22em] text-ink transition-transform active:scale-[0.98] md:inline-flex"
           >
             <span className="relative z-10 transition-colors group-hover:text-bone">
-              Kontakt
+              Bestellen
             </span>
             <span className="relative z-10 transition-colors group-hover:text-bone">→</span>
             <span className="absolute inset-0 -z-0 origin-left scale-x-0 bg-ink transition-transform duration-500 ease-[cubic-bezier(0.16,1,0.3,1)] group-hover:scale-x-100" />
@@ -114,11 +115,11 @@ export function Navbar() {
             </a>
           ))}
           <a
-            href="/reservierung"
+            href="/bestellen"
             onClick={() => setMenuOpen(false)}
             className="mt-4 inline-flex items-center gap-3 rounded-full border border-ink px-8 py-3 font-mono text-[12px] uppercase tracking-[0.22em] text-ink transition-colors hover:bg-ink hover:text-bone"
           >
-            Kontakt →
+            Bestellen →
           </a>
         </div>
       </div>
