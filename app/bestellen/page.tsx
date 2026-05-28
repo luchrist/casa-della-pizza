@@ -424,7 +424,16 @@ export default function BestellenPage() {
               animate={{ y: 0 }}
               exit={{ y: "100%" }}
               transition={{ type: "spring", stiffness: 300, damping: 35 }}
+              drag="y"
+              dragConstraints={{ top: 0 }}
+              dragElastic={0.05}
+              onDragEnd={(_e, info) => {
+                if (info.offset.y > 80 || info.velocity.y > 300) {
+                  setShowCart(false);
+                }
+              }}
               className="fixed inset-x-0 bottom-0 z-50 max-h-[85vh] overflow-y-auto rounded-t-3xl bg-bone px-5 pb-[env(safe-area-inset-bottom,16px)] pt-6"
+              style={{ touchAction: "none" }}
             >
               <div className="mx-auto mb-4 h-1 w-10 rounded-full bg-ink/15" />
               <Cart
